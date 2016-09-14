@@ -10,7 +10,7 @@ Full-time undergraduate at The University of Tennessee Knoxville studying Comput
 ## Education
 University of Tennessee - Knoxville, TN
 Bachelors of Science in Computer Engineering
-May 2013 – Dec 2017
+Expected graduation: Dec 2017
 GPA 3.84/4.00
 
 ## Experience
@@ -21,27 +21,15 @@ Designed and developed scheduling application for the production of Keuirig K-Cu
 
 ### StudyLoop | August 2015 - Present
 **Cofounder / Developer**
-Lead as head developer on iOS application as well as primary graphic designer for marketing materials and application UI. As cofounder, I also established and managed business relations for mentorship, investment, as well as financial and legal assistance
+Founded software startup focused on building a collaborative platform for college students to communicate with their classmates. Worked as iOS developer as well as primary Graphic Designer for marketing materials and application user interface.
 
+Participated in a 12 week CodeWorks Accelerator program kick-starting StudyLoop through executive mentorship, investment, financial and legal support. Presented StudyLoop business investment pitch to a panel of Angel Investors
 
 ### Sam Rose | May 2009 - December 2015
 **Freelance Web Developer**
 Started my own website business in high school. Worked with clients from all areas including Florida and Nashville. Managed own business finances as well as hired as subcontractor with a Knoxville marketing company.
 
 ## Recent Projects
-
 autocomplete-ascii-emoji | [github.com/samrose3/autocomplete-ascii-emoji](https://github.com/samrose3/autocomplete-ascii-emoji)
-Adds ASCII emoji autocompletion to autocomplete-plus ¯\\\_(ツ)\_/¯
-
-## Skills
-| Development   | Design                        |
-| :------------ | :---------------------------- |
-| HTML          | UI / UX                       |
-| CSS           | Mobile and Web Design         |
-| JavaScript    | Human-Computer Interaction    |
-| AngularJS     | Sketch                        |
-| React         |                               |
-| NativeScript  |                               |
-| iOS / Swift   |                               |
-| Python        |                               |
-| C / C++       |                               |
+event-announcer | [github.com/samrose3/event-announcer](https://github.com/samrose3/event-announcer)
+Simple single-page timeline of truth for announcements at your event 📣
