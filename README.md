@@ -31,5 +31,6 @@ Started my own website business in high school. Worked with clients from all are
 
 ## Recent Projects
 autocomplete-ascii-emoji | [github.com/samrose3/autocomplete-ascii-emoji](https://github.com/samrose3/autocomplete-ascii-emoji)
+
 event-announcer | [github.com/samrose3/event-announcer](https://github.com/samrose3/event-announcer)
 Simple single-page timeline of truth for announcements at your event 📣
