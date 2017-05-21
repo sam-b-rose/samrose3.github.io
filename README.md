@@ -7,7 +7,7 @@
 [https://www.linkedin.com/in/samrose3/](https://www.linkedin.com/in/samrose3/)
 
 ## Summary
-Full-time undergraduate at The University of Tennessee Knoxville studying Computer Engineering. I am currently participating in a team-based design internship program call [IBM Maelstrom](https://www.ibm.com/design/blog-page.shtml?a-descent-into-the-maelstrom) in Austin, TX. I am seeking full-time employment starting in December 2017.
+Full-time undergraduate at the University of Tennessee Knoxville studying Computer Engineering. I am currently participating in a team-based design internship program call [IBM Maelstrom](https://www.ibm.com/design/blog-page.shtml?a-descent-into-the-maelstrom) in Austin, TX. I am seeking full-time employment starting in December 2017.
 
 ## Education
 University of Tennessee - Knoxville, TN
