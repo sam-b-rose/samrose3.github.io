@@ -91,14 +91,14 @@ a:active, a:focus, a:hover {
     font-size: 0.9rem;
     font-style: italic;
     line-height: 1.5rem;
-    margin: 5px;
+    margin: 5px 0;
 }
 
 .category-description {
     color: var(--secondary);
     font-size: 0.9rem;
     line-height: 1.5rem;
-    margin: 0  5px 15px;
+    margin: 0  0 15px;
 }
 
 .category-description-list {
