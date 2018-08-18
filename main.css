@@ -42,6 +42,16 @@ a:active, a:focus, a:hover {
     text-decoration: none;
 }
 
+.icon {
+    display: inline-block;
+    transform: translateY(1px);
+    fill: var(--secondary);
+}
+
+.links-container > .links:not(:last-child) {
+    margin-right: 0.5rem;
+}
+
 .links {
     color: var(--link);
     display: inline-block;
@@ -52,10 +62,8 @@ a:active, a:focus, a:hover {
     color:var(--primary);
 }
 
-.links img {
-    padding: 2px;
-    margin-bottom: -4px;
-    margin-right: 4px;
+.links > .icon {
+    margin-right: 0.25rem;
 }
 
 .primary-titles {
