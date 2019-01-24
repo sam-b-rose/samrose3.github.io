@@ -9,12 +9,16 @@ body {
     font-family: 'Gudea', sans-serif;
     padding: 30px;
     margin: 5vh auto 10vh;
-    max-width: 920px;
+    max-width: 820px;
 }
 
 a:active, a:focus, a:hover {
   text-decoration: none;
   color: var(--secondary);
+}
+
+.header-details {
+    margin-bottom: 1rem;
 }
 
 .name {
@@ -25,7 +29,8 @@ a:active, a:focus, a:hover {
     text-transform: uppercase;
 }
 
-.contact-information, .links-container {
+.contact-information,
+.links-container {
     color: var(--secondary);
     display: inline-block;
     font-size: 0.8rem;
