@@ -135,7 +135,7 @@ a:active, a:focus, a:hover {
 }
 
 .flex-right {
-    align-self: flex-end;
+    align-self: center;
     text-align: right;
 }
 
