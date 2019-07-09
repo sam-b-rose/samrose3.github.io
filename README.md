@@ -16,15 +16,33 @@ Expected graduation: Dec 2017
 GPA 3.86/4.00
 
 ## Experience
+
+### Indeed | March 2019 - Current
+**UX Developer**
+
+Embedded front-end UX specialist on a cross-functional product team. Collaborate directly with a designer, product manager, and engineering team to prioritize and implement UX-related uplifts in the job posting and management flow.
+
+Goals include optimizing the ease of posting a new job on Indeed while ensuring quality details to find the most accurate candidates. UX focus also includes conveying the benefit of boosting a job post to improve the quality of applicants.
+
+### IBM | January 2018 - March 2019
+**Front End Engineer**
+
+Leading engineering and design initiatives on IBM Cloud Private for Data to create an on-premise data platform for enterprise.
+
+Primary responsibilities include front-end performance, design system implementation and release management, interaction design, usability testing, process engineering, and project management.
+
 ### IBM | June 2017 - August 2017
-**Software Designer and Offering Manager Intern**
+Front End Developer
+
+Served as a Front End Developer on an interdisciplinary team of product managers, user researchers, visual designers, and UX specialists to tackle design challenges and craft software product offerings using IBM Design Thinking methods.
+
+Developed the initial full-stack implementations of product offerings as well as serving as a technical consultant throughout the design process.
 
 ### GitLab | December 2016 - May 2017
 **Junior Frontend Engineer**
 Collaborated with remote team on developing GitLab, an online Git repository manager with a wiki, issue tracking, CI and CD. Required ability to work asynchronously with other developers and designers in different time zones.
 
 Implemented new features into GitLab such as PDF rendering and exporting Issues as CVS. When not working on deliverables, tackled open regressions and bugs related to the front-end.
-
 
 ### Cadre5, LLC | May 2014 - Present
 **Software Developer**
@@ -42,11 +60,20 @@ Participated in a 12 week CodeWorks Accelerator program kick-starting StudyLoop 
 Started my own website business in high school. Worked with clients from all areas including Florida and Nashville. Managed own business finances as well as hired as subcontractor with a Knoxville marketing company.
 
 ## Recent Projects
-[queue.dj](https://queue.dj)
+🔗 [shrinkl.ink](https://shrinkl.ink)
 
-[dadjokes](dadjokes.samrose3.com) | [github.com/samrose3/dadjokes](https://github.com/samrose3/dadjokes)
+👨‍🔬 [Algorithm Explorer](https://samrose3.github.io/algorithm-explorer/)
+
+🔍 [Spec Viewer](https://samrose3.github.io/spec-viewer/#all)
+
+📣 [Plor](https://plor.samrose3.com/)
+
+🎧 [Queue DJ](https://queuedj.samrose3.com/)
+
+---
+
+Slack `/dadjoke` | [github.com/samrose3/dadjokes](https://github.com/samrose3/dadjokes)
 
 autocomplete-ascii-emoji | [github.com/samrose3/autocomplete-ascii-emoji](https://github.com/samrose3/autocomplete-ascii-emoji)
 
-event-announcer | [github.com/samrose3/event-announcer](https://github.com/samrose3/event-announcer)
-Simple single-page timeline of truth for announcements at your event 📣
+event-announcer | [github.com/samrose3/event-announcer](https://github.com/samrose3/event-announcer) Simple single-page timeline of truth for announcements at your event
